@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Shopify/sarama"
+	"gopkg.in/Shopify/sarama.v1"
 	"github.com/wvanbergen/kazoo-go"
 )
 
